@@ -1,0 +1,25 @@
+Sketch: C:\Users\ìSòN\OneDrive\ëÂäw\2014å„ä˙\èÓïÒï\åªäÓëb\pitagora_othero, 2015-01-20 13:53:25.413
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingErrorDeleteToken,{/},Syntax error on token "/"^ delete this token
+ParsingError,{;| ,},Syntax error on token ";"^ ^ expected
+ParsingErrorInvalidToken,{f| Modifiers},Syntax error on token "f"^ invalid Modifiers
+ParsingErrorInvalidToken,{fl| Modifiers},Syntax error on token "fl"^ invalid Modifiers
+ParsingErrorInvalidToken,{flme| Modifiers},Syntax error on token "flme"^ invalid Modifiers
+ParsingErrorInvalidToken,{fram| Modifiers},Syntax error on token "fram"^ invalid Modifiers
+ParsingErrorInvalidToken,{frame| Modifiers},Syntax error on token "frame"^ invalid Modifiers
+ParsingErrorDeleteToken,{if},Syntax error on token "if"^ delete this token
+ParsingErrorDeleteToken,{int},Syntax error on token "int"^ delete this token
+ParsingErrorDeleteToken,{void},Syntax error on token "void"^ delete this token
+ParsingError,{{| (},Syntax error on token "{"^ ( expected
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodDeclaration},Syntax error^ insert ")" to complete MethodDeclaration
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| FieldDeclaration},Syntax error^ insert ";" to complete FieldDeclaration
+ParsingErrorInsertToComplete,{;| MethodDeclaration},Syntax error^ insert ";" to complete MethodDeclaration
+ParsingErrorInsertToComplete,{;| ReturnStatement},Syntax error^ insert ";" to complete ReturnStatement
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{}| MethodBody},Syntax error^ insert "}" to complete MethodBody

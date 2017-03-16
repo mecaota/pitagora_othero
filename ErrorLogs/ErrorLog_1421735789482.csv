@@ -1,0 +1,73 @@
+Sketch: C:\Users\ìSòN\OneDrive\ëÂäw\2014å„ä˙\èÓïÒï\åªäÓëb\pitagora_othero, 2015-01-20 15:36:29.481
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+InvalidCharacterConstant,{},Invalid character constant
+InvalidDigit,{},Invalid digit (valid ones are 0..9)
+UnterminatedString,{},String literal is not properly closed by a double-quote
+ParsingError,{!=| (},Syntax error on token "!="^ ( expected
+ParsingErrorInvalidToken,{!=| (},Syntax error on token "!="^ invalid (
+ParsingErrorInvalidToken,{&&| (},Syntax error on token "&&"^ invalid (
+ParsingError,{)| ++},Syntax error on token ")"^ ++ expected
+ParsingError,{)| ;},Syntax error on token ")"^ ; expected
+ParsingErrorInsertTokenAfter,{)| Statement},Syntax error on token ")"^ Statement expected after this token
+ParsingErrorInsertTokenAfter,{)| {},Syntax error on token ")"^ { expected after this token
+ParsingError,{+| ++},Syntax error on token "+"^ ++ expected
+ParsingError,{,| (},Syntax error on token "^"^ ( expected
+ParsingError,{,| <},Syntax error on token "^"^ < expected
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingError,{/| (},Syntax error on token "/"^ ( expected
+ParsingErrorDeleteToken,{10},Syntax error on token "10"^ delete this token
+ParsingErrorDeleteToken,{;},Syntax error on token ";"^ delete this token
+ParsingErrorInsertTokenAfter,{=| VariableInitializer},Syntax error on token "="^ VariableInitializer expected after this token
+ParsingError,{==| )},Syntax error on token "=="^ ) expected
+ParsingErrorInsertTokenAfter,{==| Expression},Syntax error on token "=="^ Expression expected after this token
+ParsingErrorInvalidToken,{==| AssignmentOperator},Syntax error on token "=="^ invalid AssignmentOperator
+ParsingErrorDeleteToken,{TR},Syntax error on token "TR"^ delete this token
+ParsingErrorInsertTokenAfter,{break| ;},Syntax error on token "break"^ ; expected after this token
+ParsingErrorInsertTokenAfter,{default| :},Syntax error on token "default"^ : expected after this token
+ParsingErrorDeleteToken,{default},Syntax error on token "default"^ delete this token
+ParsingErrorInvalidToken,{default| ConstantExpression},Syntax error on token "default"^ invalid ConstantExpression
+ParsingErrorInvalidToken,{default| Label},Syntax error on token "default"^ invalid Label
+ParsingErrorDeleteToken,{float},Syntax error on token "float"^ delete this token
+ParsingErrorDeleteToken,{if},Syntax error on token "if"^ delete this token
+ParsingErrorInvalidToken,{if| AnnotationName},Syntax error on token "if"^ invalid AnnotationName
+ParsingErrorDeleteToken,{s},Syntax error on token "s"^ delete this token
+ParsingErrorDeleteToken,{void},Syntax error on token "void"^ delete this token
+ParsingErrorDeleteToken,{}},Syntax error on token "}"^ delete this token
+ParsingErrorReplaceTokens,{AnnotationName},Syntax error on tokens^ AnnotationName expected instead
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorMisplacedConstruct,{},Syntax error on token(s)^ misplaced construct(s)
+ParsingErrorInsertToComplete,{) Statement| IfStatement},Syntax error^ insert ") Statement" to complete IfStatement
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodDeclaration},Syntax error^ insert ")" to complete MethodDeclaration
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{:| SwitchLabel},Syntax error^ insert ":" to complete SwitchLabel
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| ConstructorDeclaration},Syntax error^ insert ";" to complete ConstructorDeclaration
+ParsingErrorInsertToComplete,{;| FieldDeclaration},Syntax error^ insert ";" to complete FieldDeclaration
+ParsingErrorInsertToComplete,{;| LocalVariableDeclarationStatement},Syntax error^ insert ";" to complete LocalVariableDeclarationStatement
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{Type VariableDeclaratorId| FormalParameter},Syntax error^ insert "Type VariableDeclaratorId" to complete FormalParameter
+ParsingErrorInsertToComplete,{else Statement| IfStatement},Syntax error^ insert "else Statement" to complete IfStatement
+ParsingErrorInsertToComplete,{}| Block},Syntax error^ insert "}" to complete Block
+ParsingErrorInsertToComplete,{}| BlockStatements},Syntax error^ insert "}" to complete BlockStatements
+ParsingErrorInsertToComplete,{}| ClassBody},Syntax error^ insert "}" to complete ClassBody
+ParsingErrorInsertToComplete,{}| MethodBody},Syntax error^ insert "}" to complete MethodBody
+ParsingErrorInsertToComplete,{}| Statement},Syntax error^ insert "}" to complete Statement
+ParsingErrorInsertToComplete,{}| SwitchBlock},Syntax error^ insert "}" to complete SwitchBlock
+DuplicateDefaultCase,{},The default case is already defined
+ParameterMismatch,{processing.core.PApplet| background| int| },The method background(int) in the type PApplet is not applicable for the arguments ()
+UndefinedMethod,{pitagora_othero.pitagora_othero| t| java.lang.String, int, int},The method t(String^ int^ int) is undefined for the type pitagora_othero
+ParameterMismatch,{processing.core.PApplet| text| int, float, float| int, int},The method text(int^ float^ float) in the type PApplet is not applicable for the arguments (int^ int)
+ParameterMismatch,{processing.core.PApplet| text| int, float, float| int, int, java.lang.String},The method text(int^ float^ float) in the type PApplet is not applicable for the arguments (int^ int^ String)
+UndefinedMethod,{pitagora_othero.pitagora_othero| timecount| int},The method timecount(int) is undefined for the type pitagora_othero
+CodeCannotBeReached,{},Unreachable code
+InvalidBreak,{},break cannot be used outside of a loop or a switch
+UndefinedType,{framen},framen cannot be resolved to a type
+UndefinedType,{framenum},framenum cannot be resolved to a type
+UnresolvedVariable,{idth},idth cannot be resolved to a variable
+UnresolvedVariable,{wi},wi cannot be resolved to a variable

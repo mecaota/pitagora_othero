@@ -1,0 +1,7 @@
+Sketch: C:\Users\“S˜N\OneDrive\‘åŠw\2014ŒãŠú\î•ñ•\Œ»Šî‘b\pitagora_othero, 2015-01-22 15:48:20.061
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+MethodVarargsArgumentNeedCast,{java.lang.String[]| java.lang.Object[]| println| java.lang.Object...| processing.core.PApplet| java.lang.Object},The argument of type String[] should explicitly be cast to Object[] for the invocation of the varargs method println(Object...) from type PApplet. It could alternatively be cast to Object for a varargs invocation
+UndefinedType,{‚µ‚Æ‚©void},‚µ‚Æ‚©void cannot be resolved to a type
+UndefinedType,{‚Æ‚©void},‚Æ‚©void cannot be resolved to a type

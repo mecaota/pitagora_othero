@@ -1,0 +1,52 @@
+Sketch: C:\Users\“S˜N\OneDrive\‘åŠw\2014ŒãŠú\î•ñ•\Œ»Šî‘b\pitagora_othero, 2015-01-20 14:49:10.32
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingError,{)| ;},Syntax error on token ")"^ ; expected
+ParsingError,{+| ++},Syntax error on token "+"^ ++ expected
+ParsingError,{,| {},Syntax error on token "^"^ { expected
+ParsingError,{.| >},Syntax error on token "."^ > expected
+ParsingErrorDeleteToken,{/},Syntax error on token "/"^ delete this token
+ParsingErrorDeleteToken,{1},Syntax error on token "1"^ delete this token
+ParsingError,{;| ,},Syntax error on token ";"^ ^ expected
+ParsingErrorInsertTokenAfter,{<| Expression},Syntax error on token "<"^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{=| VariableInitializer},Syntax error on token "="^ VariableInitializer expected after this token
+ParsingErrorDeleteToken,{[},Syntax error on token "["^ delete this token
+ParsingErrorDeleteToken,{]},Syntax error on token "]"^ delete this token
+ParsingError,{case| assert},Syntax error on token "case"^ assert expected
+ParsingErrorInvalidToken,{default| Label},Syntax error on token "default"^ invalid Label
+ParsingErrorInvalidToken,{f| Modifiers},Syntax error on token "f"^ invalid Modifiers
+ParsingErrorInsertTokenAfter,{fill| =},Syntax error on token "fill"^ = expected after this token
+ParsingErrorInvalidToken,{fl| Modifiers},Syntax error on token "fl"^ invalid Modifiers
+ParsingErrorInvalidToken,{flme| Modifiers},Syntax error on token "flme"^ invalid Modifiers
+ParsingErrorInvalidToken,{fram| Modifiers},Syntax error on token "fram"^ invalid Modifiers
+ParsingErrorInvalidToken,{frame| Modifiers},Syntax error on token "frame"^ invalid Modifiers
+ParsingErrorDeleteToken,{if},Syntax error on token "if"^ delete this token
+ParsingErrorDeleteToken,{int},Syntax error on token "int"^ delete this token
+ParsingError,{tex| throw},Syntax error on token "tex"^ throw expected
+ParsingErrorDeleteToken,{void},Syntax error on token "void"^ delete this token
+ParsingError,{{| (},Syntax error on token "{"^ ( expected
+ParsingErrorDeleteToken,{}},Syntax error on token "}"^ delete this token
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorMisplacedConstruct,{},Syntax error on token(s)^ misplaced construct(s)
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodDeclaration},Syntax error^ insert ")" to complete MethodDeclaration
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| FieldDeclaration},Syntax error^ insert ";" to complete FieldDeclaration
+ParsingErrorInsertToComplete,{;| MethodDeclaration},Syntax error^ insert ";" to complete MethodDeclaration
+ParsingErrorInsertToComplete,{;| ReturnStatement},Syntax error^ insert ";" to complete ReturnStatement
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{}| MethodBody},Syntax error^ insert "}" to complete MethodBody
+NoFieldOnBaseType,{int| hit| ength},The primitive type int of hit does not have a field ength
+NoFieldOnBaseType,{int| hit| length},The primitive type int of hit does not have a field length
+ArrayReferenceRequired,{int},The type of the expression must be an array type but it resolved to int
+TypeMismatch,{int[]| int},Type mismatch: cannot convert from int[] to int
+UnresolvedVariable,{gth},gth cannot be resolved to a variable
+UnresolvedVariable,{h},h cannot be resolved to a variable
+UnresolvedVariable,{hith},hith cannot be resolved to a variable
+UnresolvedVariable,{hitlength},hitlength cannot be resolved to a variable
+UnresolvedVariable,{i},i cannot be resolved to a variable
+UndefinedType,{it.length},it.length cannot be resolved to a type
+UndefinedType,{t.length},t.length cannot be resolved to a type

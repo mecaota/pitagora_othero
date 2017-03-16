@@ -1,0 +1,9 @@
+Sketch: C:\Users\“S˜N\OneDrive\‘åŠw\2014ŒãŠú\î•ñ•\Œ»Šî‘b\pitagora_othero, 2015-01-20 21:00:48.579
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorDeleteToken,{/},Syntax error on token "/"^ delete this token
+ParsingErrorDeleteToken,{x},Syntax error on token "x"^ delete this token
+ParsingErrorDeleteToken,{y},Syntax error on token "y"^ delete this token
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens

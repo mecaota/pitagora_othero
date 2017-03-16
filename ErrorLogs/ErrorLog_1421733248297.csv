@@ -1,0 +1,10 @@
+Sketch: C:\Users\“S˜N\OneDrive\‘åŠw\2014ŒãŠú\î•ñ•\Œ»Šî‘b\pitagora_othero, 2015-01-20 14:54:08.297
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingErrorInsertTokenAfter,{=| VariableInitializer},Syntax error on token "="^ VariableInitializer expected after this token
+ParsingErrorDeleteToken,{TR},Syntax error on token "TR"^ delete this token
+ParsingErrorDeleteToken,{float},Syntax error on token "float"^ delete this token
+ParsingErrorInsertToComplete,{;| FieldDeclaration},Syntax error^ insert ";" to complete FieldDeclaration
+UnresolvedVariable,{wi},wi cannot be resolved to a variable

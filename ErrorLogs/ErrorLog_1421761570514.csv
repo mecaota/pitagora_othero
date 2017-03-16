@@ -1,0 +1,51 @@
+Sketch: C:\Users\ìSòN\OneDrive\ëÂäw\2014å„ä˙\èÓïÒï\åªäÓëb\pitagora_othero, 2015-01-20 22:46:10.513
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+UnresolvedVariable,{Rx},Rx cannot be resolved to a variable
+UnterminatedString,{},String literal is not properly closed by a double-quote
+ParsingErrorInsertTokenAfter,{(| Expression},Syntax error on token "("^ Expression expected after this token
+ParsingErrorInvalidToken,{(| Expression},Syntax error on token "("^ invalid Expression
+ParsingErrorInsertTokenAfter,{)| Statement},Syntax error on token ")"^ Statement expected after this token
+ParsingErrorInsertTokenAfter,{*| Expression},Syntax error on token "*"^ Expression expected after this token
+ParsingError,{+| ++},Syntax error on token "+"^ ++ expected
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingError,{-| --},Syntax error on token "-"^ -- expected
+ParsingErrorInsertTokenAfter,{-| Expression},Syntax error on token "-"^ Expression expected after this token
+ParsingErrorDeleteToken,{/},Syntax error on token "/"^ delete this token
+ParsingErrorInsertTokenAfter,{:| EmptyStatement},Syntax error on token ":"^ EmptyStatement expected after this token
+ParsingErrorInsertTokenAfter,{=| Expression},Syntax error on token "="^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{=| VariableInitializer},Syntax error on token "="^ VariableInitializer expected after this token
+ParsingErrorInsertTokenAfter,{break| ;},Syntax error on token "break"^ ; expected after this token
+ParsingError,{case| assert},Syntax error on token "case"^ assert expected
+ParsingError,{com| }},Syntax error on token "com"^ } expected
+ParsingError,{command| }},Syntax error on token "command"^ } expected
+ParsingErrorInvalidToken,{default| ConstantExpression},Syntax error on token "default"^ invalid ConstantExpression
+ParsingErrorInvalidToken,{default| Label},Syntax error on token "default"^ invalid Label
+ParsingError,{line| }},Syntax error on token "line"^ } expected
+ParsingError,{liney| }},Syntax error on token "liney"^ } expected
+ParsingErrorInsertTokenAfter,{textAlign| =},Syntax error on token "textAlign"^ = expected after this token
+ParsingErrorDeleteToken,{x},Syntax error on token "x"^ delete this token
+ParsingErrorDeleteToken,{y},Syntax error on token "y"^ delete this token
+ParsingErrorDeleteToken,{}},Syntax error on token "}"^ delete this token
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorMisplacedConstruct,{},Syntax error on token(s)^ misplaced construct(s)
+ParsingErrorInsertToComplete,{) Statement| BlockStatements},Syntax error^ insert ") Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{) Statement| IfStatement},Syntax error^ insert ") Statement" to complete IfStatement
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{}| Block},Syntax error^ insert "}" to complete Block
+ParsingErrorInsertToComplete,{}| Statement},Syntax error^ insert "}" to complete Statement
+UndefinedMethod,{pitagora_othero.pitagora_othero| BackingStoreExceptionxtAlign| int},The method BackingStoreExceptionxtAlign(int) is undefined for the type pitagora_othero
+ParameterMismatch,{processing.core.PApplet| fill| int| },The method fill(int) in the type PApplet is not applicable for the arguments ()
+UndefinedMethod,{pitagora_othero.pitagora_othero| xtAlign| int},The method xtAlign(int) is undefined for the type pitagora_othero
+TypeMismatch,{int| boolean},Type mismatch: cannot convert from int to boolean
+CodeCannotBeReached,{},Unreachable code
+UnresolvedVariable,{f},f cannot be resolved to a variable
+UnresolvedVariable,{framen},framen cannot be resolved to a variable
+UnresolvedVariable,{he},he cannot be resolved to a variable
+UnresolvedVariable,{lin},lin cannot be resolved to a variable
